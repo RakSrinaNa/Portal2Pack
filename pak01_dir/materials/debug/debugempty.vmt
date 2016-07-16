@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+
+$basetexture "debug/debugemptt"
+$model 1
+
+$decalscale 0.05
+}
