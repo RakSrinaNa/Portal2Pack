@@ -1,7 +1,6 @@
 VertexLitGeneric
 {
 $baseTexture "models/props_gameplay/mp_balt"
-$normalmapalphaenvmapmask 1
 $phong 1
 $phongexponent 5
 $envmaptint "[.3 .3 .3 ]"
