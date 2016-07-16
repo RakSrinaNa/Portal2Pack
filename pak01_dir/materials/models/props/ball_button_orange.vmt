@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+$basetexture "models/props/ball_button_orangt"
+$selfillum 1
+$bumpmap "models/props/metal_box_normal"
+$phong 1
+
+$phongboost 0
+
+$phongfresnelranges "[1 1.5 2]"
+}
